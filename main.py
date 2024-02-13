@@ -159,13 +159,6 @@ while i <= 10:
     print(i)
     i += 1
 
-print("Done with loop") '''
+print("Done with loop")'''
 
 
-secret_word = "giraffe"
-guess = ""
-
-while guess != secret_word:
-    guess = input("Enter guess: ")
-
-print("you win!")
